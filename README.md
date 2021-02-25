@@ -7,3 +7,4 @@ int main()
 {
   printf("I love games so much!!");
 }
+```
