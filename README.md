@@ -5,6 +5,6 @@
 #include <stdio.h>
 int main()
 {
-  printf("I love games so much!!");
+  printf("I love games so much!!\n");
 }
 ```
